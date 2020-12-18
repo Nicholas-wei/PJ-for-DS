@@ -1,0 +1,4 @@
+﻿  旅行问题.cpp
+C:\Users\15302\Desktop\大二上\数据结构\pj\旅行问题\graph.h(82,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15302\Desktop\大二上\数据结构\pj\旅行问题\graph.h(135): warning C4715: “graphlnk::building_graph”: 不是所有的控件路径都返回值
+  旅行问题.vcxproj -> C:\Users\15302\Desktop\大二上\数据结构\pj\旅行问题\Debug\旅行问题.exe
